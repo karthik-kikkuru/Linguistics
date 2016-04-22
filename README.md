@@ -1,8 +1,8 @@
 # Linguistics
 
 -Load all the files in the repository to a single folder including the input file.
--Run Linguistics.java
--An output of graphs is generated
+-Run Linguistics.java.
+-An output of graphs is generated.
 
 
 
